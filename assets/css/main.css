@@ -1,0 +1,10 @@
+@import "normalize.css";
+@import "fontawesome.css";
+@import "devicon.min.css";
+
+@import 'base.css';
+@import 'animation.css';
+@import 'header.css';
+@import 'about.css';
+@import 'projects.css';
+@import 'footer.css';

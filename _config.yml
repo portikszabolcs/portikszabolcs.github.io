@@ -1,0 +1,20 @@
+# Site settings
+title: Portik Szabolcs
+description: Portfolio website
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Portik Szabolcs
+user_description: I am a final year Computer Science student at Sapientia Hungarian University of Transylvania. I have personal and university projects made with Vue.js, Laravel, Node.js, Flutter and Android, but I tried Angular, Java, Linux and ESP microcontroller development too. I am interested in web development and mobile development, but I am open to new technologies and challenges.
+user_title: Computer Science Student
+email: portik.szabolcs@proton.me
+twitter_username: lorem_ipsum
+github_username: portikszabolcs
+gplus_username: lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ["package.json", "src", "node_modules"]

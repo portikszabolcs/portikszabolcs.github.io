@@ -1,0 +1,23 @@
+- title: Radio Projekt Web
+  image: vue-radio.png
+  tags:
+    - Vue.js
+    - Netlify
+  description: "My first 'big': project an online radio collection webapp built with Vue.js and hosted on Netlify. It has different color themes, sleep timer, screensaver mode, music information and much more."
+  url: https://radioprojekt.netlify.app
+
+- title: Radio Projekt Flutter App
+  image: flutter-radio.png
+  tags:
+    - Flutter
+    - Android
+  description: Radio Projekt is a feature rich and customizable, online radio listening app available on Google Play Store.
+  url: https://play.google.com/store/apps/details?id=com.radioprojekt.flutter_radio
+
+- title: CsillagRulpaa Portfolio Website
+  image: csillagrulpaa.png
+  tags:
+    - Vue.js
+    - Cloudflare
+  description: This is a portfolio website created for a customer. It provides a platform, where he can showcase his storybooks. The design was made by the customer, and I implemented it with Vue.js and hosted it on Cloudflare.
+  url: https://csillagrulpaa.com
