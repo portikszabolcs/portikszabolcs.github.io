@@ -3,7 +3,7 @@
   tags:
     - Vue.js
     - Netlify
-  description: "My first 'big': project an online radio collection webapp built with Vue.js and hosted on Netlify. It has different color themes, sleep timer, screensaver mode, music information and much more."
+  description: "My first 'big' project: an online radio collection webapp built with Vue.js and hosted on Netlify. It has 4 color themes, sleep timer, screensaver mode, music information and much more."
   url: https://radioprojekt.netlify.app
 
 - title: Radio Projekt Flutter App
@@ -11,7 +11,7 @@
   tags:
     - Flutter
     - Android
-  description: Radio Projekt is a feature rich and customizable, online radio listening app available on Google Play Store.
+  description: Radio Projekt is a feature rich and customizable, online radio listening app available on Google Play Store. It includes all the features of the web version and more.
   url: https://play.google.com/store/apps/details?id=com.radioprojekt.flutter_radio
 
 - title: CsillagRulpaa Portfolio Website
@@ -21,3 +21,29 @@
     - Cloudflare
   description: This is a portfolio website created for a customer. It provides a platform, where he can showcase his storybooks. The design was made by the customer, and I implemented it with Vue.js and hosted it on Cloudflare.
   url: https://csillagrulpaa.com
+
+- title: ESP32-Minigames
+  image: esp-minigames.png
+  tags:
+    - C++
+    - ESP32
+  description: "This project turns an ESP32 with LED Matrix and Joystick into a customizable minigame platform. Features include: 4 stock games, expandable game library, webpage with remote control and scoreboard."
+  url: https://github.com/portikszabolcs/ESP32-Minigames
+
+- title: Bus4U
+  image: bus4u-user.png
+  tags:
+    - Vue.js
+    - Vuetify
+    - Netlify
+  description: "This project is a bus journey planner webapp, which shows the current location of the buses on a map, and provides information about the buses and their routes. Its backend was created by a colleague, and I implemented the frontend."
+  url: https://bus4u.online
+
+- title: Bus4U Admin
+  image: bus4u-admin.png
+  tags:
+    - Vue.js
+    - Vuetify
+    - Netlify
+  description: "This website serves as the admin interface for the Bus4U project. It provides a platform for the bus companies to manage their buses, routes and schedules. It was created by me, and it shares the same backend with the Bus4U webapp."
+  url: https://admin.bus4u.online
