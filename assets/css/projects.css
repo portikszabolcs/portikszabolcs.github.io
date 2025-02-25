@@ -33,6 +33,7 @@
     padding: 4px 10px;
     margin-right: 5px;
     color: var(--secondary);
+    line-height: 2;
   }
   p {
     margin-right: 5px;
