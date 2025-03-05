@@ -11,8 +11,4 @@ user_title: Computer Science Student
 email: portik.szabolcs@proton.me
 github_username: portikszabolcs
 
-# Google-analytics
-google-analytics:
-  id: "G-MZNXYGBYEG"
-
 exclude: ["package.json", "src", "node_modules"]
