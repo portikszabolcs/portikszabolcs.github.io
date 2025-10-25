@@ -1,13 +1,13 @@
 # Site settings
-title: Portik Szabolcs | CS Student & Developer
-description: Portfolio of Portik Szabolcs, a Computer Science student and Junior Software Developer. Showcasing projects, skills, and experience in software development.
+title: Portik Szabolcs | Junior Computer Engineer
+description: Portfolio of Portik Szabolcs, a Junior Computer Engineer. Showcasing projects, skills, and experience in software development.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://portikszabolcs.github.io"
 
 # User settings
 username: Portik Szabolcs
-user_description: I am a final year Computer Science student at Sapientia Hungarian University of Transylvania. I have personal and university projects made with Vue.js, Laravel, Node.js, Flutter and Android, but I tried Angular, Java, Linux and ESP microcontroller development too. I am interested in web development and mobile development, but I am open to new technologies and challenges.
-user_title: Computer Science Student
+user_description: I recently graduated with a Bachelor's degree in Computer Engineering from Sapientia Hungarian University of Transylvania. I have personal and university projects built with Vue.js, Laravel, Node.js, Flutter and Android, but I tried Java, Linux and ESP microcontroller development too. I'm focused on web and mobile development, but I'm open to other technologies and new challenges.
+user_title: Junior Computer Engineer
 email: portik.szabolcs@proton.me
 github_username: portikszabolcs
 
