@@ -22,6 +22,14 @@
   description: This is a portfolio website created for a customer. It provides a platform, where he can showcase his storybooks. The design was made by the customer, and I implemented it with Vue.js and deployed to Cloudflare.
   url: https://csillagrulpaa.com
 
+- title: Movie Tracker
+  image: movie-tracker.png
+  tags:
+    - Laravel
+    - Livewire
+  description: Movie Tracker is a web application that allows users to track the movies they have watched or want to watch. It is a wrapper around The Movie Database API and it provides features such as movie search and ratings.
+  url: https://movies.portix.dev
+
 - title: ESP32-Minigames
   image: esp-minigames.png
   tags:
@@ -47,3 +55,11 @@
     - Netlify
   description: "This website serves as the admin interface for the Bus4U project. It provides a platform for the bus companies to manage their buses, routes and schedules. It was created by me, and it shares the same backend with the Bus4U webapp."
   url: https://bus4u-admin.netlify.app
+
+- title: Progress Indicator Plasmoid
+  image: progress-indicator.png
+  tags:
+    - Linux
+    - KDE Plasma
+  description: "This is a customizable progress indicator widget/plasmoid for KDE Plasma 5. It can help you monitor task progress or track your preparation rate for an exam. It is available on GitHub, and it can be installed from the KDE Store."
+  url: https://store.kde.org/p/2248467
