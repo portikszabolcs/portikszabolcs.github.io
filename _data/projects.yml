@@ -27,8 +27,17 @@
   tags:
     - Laravel
     - Livewire
-  description: Movie Tracker is a web application that allows users to track the movies they have watched or want to watch. It is a wrapper around The Movie Database API and it provides features such as movie search and ratings.
+  description: Movie Tracker is a website that allows users to track the movies they have watched or want to watch. It is a wrapper around The Movie Database API and it provides features such as movie search and ratings.
   url: https://movies.portix.dev
+
+- title: Teke App
+  image: teke-app.png
+  tags:
+    - Laravel
+    - Filament
+    - AI
+  description: This web application was originally developed for an amateur nine-pin bowling championship in Transylvania. It gives supporters a view of the active championship and gives organisers a back office for maintaining league data.
+  url: https://teke.portix.dev
 
 - title: ESP32-Minigames
   image: esp-minigames.png
